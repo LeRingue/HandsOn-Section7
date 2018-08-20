@@ -1,4 +1,4 @@
-* { margin: 50px; }
+* { margin: 0px; }
 
 header {
     width: 100%;
@@ -28,4 +28,15 @@ p {
   width: 100%;
   height: 150px;
   background-color: white;
+}
+
+ul {
+  width: 10%;
+  height: 100px;
+  background-color: green;
+}
+ol {
+  width: 10%;
+  height: 100px;
+  background-color: yellow;
 }
